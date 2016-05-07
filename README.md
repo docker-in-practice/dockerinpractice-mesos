@@ -1,5 +1,5 @@
 ```
-pip install shutit
+sudo pip install shutit
 git clone --recursive <this repo>
 ./run.sh
 ```
